@@ -1,0 +1,6 @@
+POST http://localhost:3001/authenticate
+Content-Type: application/json
+
+# If you have the "REST Client" extension, a "Send Request" text should appear aobve the "POST". click that to get a json file back just like using the "POSTMAN" application.
+
+{"username": "zack"}

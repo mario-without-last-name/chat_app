@@ -1,0 +1,15 @@
+youtube tutorial:
+https://www.youtube.com/watch?v=Fzv-rgwcFKk
+
+ChatEngine.io main website (you can see the docs, projects, etc)
+https://chatengine.io/
+
+ChatEngine.io blog:
+https://blog.chatengine.io/
+
+ChatEngine.io REST API docs:
+https://rest.chatengine.io/
+
+Some ChatEngine.io prebuilt components:
+npmjs.com/package/react-chat-engine-advanced
+https://www.npmjs.com/package/react-chat-engine-pretty
